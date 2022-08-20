@@ -450,8 +450,10 @@
 	               data-textAlign="['left','left','left','center']" 
 	               data-frames='[{"delay":0,"speed":1200,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' 
 	               data-responsive="on" 
-	               data-responsive_offset="on" style="z-index: 9;" href="#">Get the first lesson by email. It's free.
+	               data-responsive_offset="on" style="z-index: 9;" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta'});return false;">Get a free 1:1 consultation.
 	          </a>
+		  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+		  <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 			  <!-- /.tp-caption -->
             </li>
           </ul>
@@ -762,8 +764,8 @@
           <div class="col-md-6 offset-md-3">
             <form class="fields-white">
               <div class="input-group">
-                <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required>
-                <button type="submit" class="btn btn-rounded btn-default mr-0 mb-0 pull-right">Watch</button>
+<!--                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required> -->
+                <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta'});return false;" class="btn btn-rounded btn-default mr-0 mb-0">Enroll now</button>
               </div>
             </form>
           </div>
