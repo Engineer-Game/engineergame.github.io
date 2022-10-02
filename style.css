@@ -812,7 +812,7 @@ button.hamburger.animate.active:after {
 /*	10. BUTTON
 /*-----------------------------------------------------------------------------------*/
 .btn {
-    color: var(--color-white);
+    color: var(--color-white) !important;
     background: var(--color-default);
     border: 0;
     margin-bottom: 0.5rem;
@@ -821,7 +821,7 @@ button.hamburger.animate.active:after {
     font-size: 0.65rem;
     letter-spacing: 0.025rem;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: bold;
     line-height: 1;
     border-radius: 1.5rem;
     text-shadow: none;
