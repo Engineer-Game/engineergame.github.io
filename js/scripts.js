@@ -9,7 +9,7 @@
 
 window.addEventListener('DOMContentLoaded', event => {
   
-    var text = ["Data", "Cloud", "Machine Learning", "Software"];
+    var text = ["Data", "Cloud", "Software"];
     var counter = 0;
     var inst = setInterval(change, 2500);
 
