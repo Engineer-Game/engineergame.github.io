@@ -7,6 +7,18 @@
 // Scripts
 // 
 
+var text = ["Data", "Cloud", "Machine Learning", "Software", "Hardware"];
+var counter = 0;
+var inst = setInterval(change, 1500);
+
+function change() {
+  $('.engineer').text(text[counter]);
+  counter++;
+  if (counter >= text.length) {
+    counter = 0;
+  }
+}
+
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
