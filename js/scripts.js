@@ -7,19 +7,19 @@
 // Scripts
 // 
 
-var text = ["Data", "Cloud", "Machine Learning", "Software"];
-var counter = 0;
-var inst = setInterval(change, 1500);
-
-function change() {
-  $('.engineer').text(text[counter]);
-  counter++;
-  if (counter >= text.length) {
-    counter = 0;
-  }
-}
-
 window.addEventListener('DOMContentLoaded', event => {
+  
+    var text = ["Data", "Cloud", "Machine Learning", "Software"];
+    var counter = 0;
+    var inst = setInterval(change, 2500);
+
+    function change() {
+      $('.engineer').text(text[counter]);
+      counter++;
+      if (counter >= text.length) {
+        counter = 0;
+      }
+    }
 
     // Navbar shrink function
     var navbarShrink = function () {
