@@ -811,10 +811,6 @@ button.hamburger.animate.active:after {
 /*-----------------------------------------------------------------------------------*/
 /*	10. BUTTON
 /*-----------------------------------------------------------------------------------*/
-@media only screen and (max-width: 749px){
-    .btn { width:100%; }
-}
-
 .btn {
     color: var(--color-white) !important;
     background: var(--color-default);
@@ -833,7 +829,8 @@ button.hamburger.animate.active:after {
     -webkit-box-shadow: none;
     box-shadow: 0 4px 0 0 rgb(0 0 0 / 10%);
     display: inline-block;
-    line-height: 24px
+    line-height: 24px;
+    white-space: normal;
 }
 .btn-icon i {
     vertical-align: -1px;
