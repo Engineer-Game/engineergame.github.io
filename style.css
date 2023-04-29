@@ -811,6 +811,28 @@ button.hamburger.animate.active:after {
 /*-----------------------------------------------------------------------------------*/
 /*	10. BUTTON
 /*-----------------------------------------------------------------------------------*/
+
+p, li {
+    color: #7f8893;
+    margin-bottom: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    display: block;
+}
+
+h5 {
+    margin-bottom: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    display: block;
+}
+
 .btn {
     color: var(--color-white) !important;
     background: var(--color-default);
