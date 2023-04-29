@@ -811,6 +811,10 @@ button.hamburger.animate.active:after {
 /*-----------------------------------------------------------------------------------*/
 /*	10. BUTTON
 /*-----------------------------------------------------------------------------------*/
+@media only screen and (max-width: 749px){
+    .btn { width:100%; }
+}
+
 .btn {
     color: var(--color-white) !important;
     background: var(--color-default);
