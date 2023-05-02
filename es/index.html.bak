@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html lang="es">
+   <head>
+      <meta charset="utf-8">
+      <title>Ayudo a ingenieros en Tech a aumentar un 40% su salario en 6 meses sin trabajar más horas con el método Engineer Game</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv='cache-control' content='no-cache'>
+      <meta http-equiv='expires' content='0'>
+      <meta http-equiv='pragma' content='no-cache'>
+      <meta name="description" content="Define tus metas de vida y logra el éxito en tu carrera tecnológica. Nuestra plataforma integral brinda las herramientas y recursos necesarios para crear un camino claro hacia tus objetivos profesionales.">
+      <meta name="keywords" content="Preparación para entrevistas de trabajo en tecnología, Desarrollo de carrera para ingenieros de tecnología, Metas profesionales para ingenieros de software, Entrevistas para ingenieros de software, Creación de currículums para profesionales de tecnología, Negociación salarial para ingenieros de tecnología, Coaching profesional para ingenieros de tecnología, Estrategias de búsqueda de empleo para ingenieros de tecnología, Guía de carrera personalizada, Compensación total para ingenieros de software, Metas de vida para profesionales de tecnología, Aumento del potencial de ingresos para ingenieros de tecnología, Mejores trabajos y empleadores de tecnología, Desarrollo de habilidades técnicas, Tendencias del mercado laboral para profesionales de tecnología">
+      <meta property="og:title" content="Ayudo a ingenieros en tech a aumentar un 40% su salario en 6 meses sin trabajar más horas con el método Engineer Game">
+      <meta property="og:site_name" content="Engineer Game">
+      <meta property="og:url" content="https://www.engineergame.com">
+      <meta property="og:description" content="Define tus metas de vida y logra el éxito en tu carrera tecnológica. Nuestra plataforma integral brinda las herramientas y recursos necesarios para crear un camino claro hacia tus objetivos profesionales.">
+      <meta property="og:type" content="website">
+      <meta property="og:image" content="https://engineergame.com/style/images/image.png">
+      <meta content="Ayudo a ingenieros en tech a aumentar un 40% su salario en 6 meses sin trabajar más horas con el método Engineer Game" property="twitter:title" />
+      <link rel="shortcut icon" href="/style/images/favicon.png">
+      <meta property="og:type" content="website" />
+      <meta content="summary_large_image" name="twitter:card" />
+      <meta content="width=device-width, initial-scale=1" name="viewport" />
+      <link rel="stylesheet" type="text/css" href="/style/css/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="/style/css/plugins.css">
+      <link rel="stylesheet" type="text/css" href="/style/revolution/css/settings.css">
+      <link rel="stylesheet" type="text/css" href="/style/revolution/css/layers.css">
+      <link rel="stylesheet" type="text/css" href="/style/revolution/css/navigation.css">
+      <link rel="stylesheet" type="text/css" href="/style/type/type.css">
+      <link rel="stylesheet" type="text/css" href="/style.css">
+      <link rel="stylesheet" type="text/css" href="/style/css/color/blue.css">
+      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BY10NNWEE"></script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         
+         gtag('config', 'G-2BY10NNWEE');
+      </script>
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+         })(window,document,'script','dataLayer','GTM-5HPR8XM');
+      </script>
+      <!-- End Google Tag Manager -->
+      <!-- Meta Pixel Code -->
+      <script>
+         !function(f,b,e,v,n,t,s)
+         {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+         n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+         if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+         n.queue=[];t=b.createElement(e);t.async=!0;
+         t.src=v;s=b.getElementsByTagName(e)[0];
+         s.parentNode.insertBefore(t,s)}(window, document,'script',
+         'https://connect.facebook.net/en_US/fbevents.js');
+         fbq('init', '2270950013062080');
+         fbq('track', 'PageView');
+      </script>
+      <noscript><img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=2270950013062080&ev=PageView&noscript=1"
+         /></noscript>
+      <!-- End Meta Pixel Code -->
+   </head>
+   <body>
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HPR8XM"
+         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+      <div class="content-wrapper">
+         <nav class="navbar absolute transparent navbar-expand-lg">
+            <div class="container flex-row justify-content-center">
+               <div class="navbar-brand"><a href="/es">
+                  <img src="#" srcset="/style/images/logo.png 1x, /style/images/logo@2x.png 2x" alt="Engineer Game" /> 
+                  </a>
+               </div>
+               <div class="navbar-other ml-auto order-lg-3">
+                  <ul class="navbar-nav flex-row align-items-center" data-sm-skip="true">
+                  </ul>
+                  <!-- /.navbar-nav -->
+               </div>
+               <!-- /.navbar-other -->
+               <div class="navbar-other ml-auto order-lg-3">
+                  <ul class="navbar-nav flex-row align-items-center" >
+                    <li class="nav-item">
+                      <div class="navbar-hamburger d-lg-none d-xl-none ml-auto"><button class="hamburger animate plain" data-toggle="offcanvas-nav"><span></span></button></div>
+                    </li>
+                  </ul>
+                  <!-- /.navbar-nav -->
+                </div>
+               <div class="navbar-collapse offcanvas-nav">
+                  <!-- <div class="offcanvas-header d-lg-none d-xl-none">
+                     <!-- <a href="index.html"><img src="#" srcset="style/images/logo.png 1x, style/images/logo@2x.png 2x" alt="" /></a> -->
+                     <!-- <button class="plain offcanvas-close offcanvas-nav-close"><i class="jam jam-close"></i></button> 
+                  </div>-->
+                  <ul class="navbar-nav ml-auto">
+                     <li class="nav-item">
+                        <a class="nav-link" href="/es"></a>
+                     </li>
+                     <li class="nav-item"><a class="nav-link dropdown-toggle" href="/es/blog">Blog</a>
+                     </li>
+                     <li class="nav-item"><a class="nav-link dropdown-toggle" href="/">EN</a>
+                     </li>
+                  </ul>
+                  <!-- /.navbar-nav -->
+               </div>
+               <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+         </nav>
+        
+         <div class="wrapper white-wrapper">
+            <div class="container">
+               <div class="space120"></div>
+               <h1 class="display-2 text-center">¿Tienes <span style="padding-right: 6px; padding-left: 3px; background-color: #ff6174; color: #fff;">Realmente</span> la Vida que Mereces?</h1>
+               <div class="space20"></div>
+               <h2 class="display-3 text-center" style="color:#7f8893;margin-left: auto;margin-right: auto;">Ayudo a Ingenieros en Tech a aumentar un 40% su Salario en 6 meses sin Trabajar más horas con el Método Engineer Game</h2> 
+               <div class="space30"></div>
+               <div class="text-center">
+                  <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" class="btn btn-rounded btn-default mr-0 mb-0">Agenda tu sesión de estrategia gratuita</a>
+               </div>
+               <div class="space60"></div>
+               <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/764190352?h=82467e4b5b&badge=false&autopause=false&transparent=true&pip=false&keyboard=false&player_id=0&app_id=58479&portrait=0&byline=0&controls=true&title=false" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Engineer Game.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+               </div>
+               <div class="space80"></div>
+            </div>
+         </div>
+     
+         <div class="wrapper white-wrapper">
+            <div class="container">
+               <h2 class="display-3 text-center" style="color:#7f8893;margin-left: auto;margin-right: auto;">Destacado en eventos, podcasts, boletines informativos y grupos de expertos en toda la industria tecnológica.</h2>
+               <div class="col-lg-12">
+                  <figure><img src="/assets/img/logos.jpeg"/></figure>
+               </div>
+               <div class="space90"></div>
+               <h2 class="display-3 text-center">Desbloquea tu potencial: estableciendo metas para la vida que mereces</h3>
+               <div class="space10"></div>
+               <h3 class="display-3 text-center" style="color:#7f8893;margin-left: auto;margin-right: auto;">Muchos ingenieros de tecnología se encuentran moviéndose de un trabajo a otro sin un plan claro, sin darse cuenta de su verdadero potencial. Al no establecer y perseguir metas específicas, limitan su capacidad para lograr la independencia financiera, proveer para sus familias y contribuir a sus comunidades</h3>
+              <div class="space20"></div> 
+            </div>
+         </div>
+     
+         <div class="wrapper white-wrapper">
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="col-lg-4">
+                     <figure><img src="#" srcset="/assets/img/bio.png" alt="" /></figure>
+                  </div>
+                  <!--/column -->
+                  <div class="space20 d-md-none"></div>
+                  <div class="space50 d-none d-md-block d-lg-none"></div>
+                  <div class="col-lg-8 pl-60 pl-md-15">
+                     <!--             <h2 class="title-color color-gray">Why me?</h2> -->
+                     <div class="space120"></div>
+                      <h3 class="display-3">Mi nombre es Alejandro, y soy el creador de Engineer Game. Habiendo estado en tu situación, he jugado el juego de buscar trabajo de primera mano</h3>
+                      <div class="space20"></div>
+                      <p>Con un historial comprobado de alcanzar mis propias metas de vida y ayudar a otros a hacer lo mismo, tengo confianza en mi capacidad para guiarte hacia el éxito en la compleja tarea de buscar trabajo en tecnología.</p>
+                      <ul class="icon-list bullet-default">
+                         <li><i class="icofont-verification-check"></i>Por más de 20 años, he estado trabajando en la industria de tecnología y de código abierto.</li>
+                         <li><i class="icofont-verification-check"></i>Después de mudarme a Silicon Valley en 2015, logré un aumento significativo en mi compensación, saltando de $130k a $1M en total</li>
+                         <li><i class="icofont-verification-check"></i>A lo largo de mi carrera, he participado en más de 1000 entrevistas de trabajo con empresas líderes en tecnología como Amazon, Facebook, Google y Microsoft</li>
+                         <li><i class="icofont-verification-check"></i>Puedo aprovechar mi experiencia y conocimiento para ayudarte a ahorrar tiempo y evitar errores comunes en tu propia carrera</li>
+                         <li><i class="icofont-verification-check"></i>Como mentor, he ayudado con éxito a otros ingenieros a conseguir puestos en empresas de primera categoría como Amazon, Twitter, Uber y Google</li>
+                      </ul>
+                  </div>
+                  <!--/column -->
+               </div>
+               <!--/.row -->
+               <div class="space40"></div>
+               <div class="text-center">
+                  <!--                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required> -->
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" class="btn btn-rounded btn-default mr-0 mb-0">Agenda tu sesión estratégica gratuita</a>
+               </div>
+               <div class="space140"></div>
+            </div>
+         </div>
+         <div class="wrapper white-wrapper">
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="col-lg-6 order-lg-2">
+                     <figure><img src="#" srcset="/style/images/concept/concept1.png 1x, /style/images/concept/concept1@2x.png 2x" alt=""></figure>
+                  </div>
+                  <!--/column -->
+                  <div class="space20 d-md-none"></div>
+                  <div class="space50 d-none d-md-block d-lg-none"></div>
+                  <div class="col-lg-6 pr-60 pr-md-15">
+                     <h3 class="display-3">Vivir de acuerdo con tus habilidades profesionales te permitirá vivir sin estrés y mejorar tu calidad de vida</h3>
+                     <div class="space30"></div>
+                     <div class="d-flex flex-row justify-content-center">
+                        <div>
+                           <span class="icon icon-blob icon-blob-blue color-orange mr-25"><i class="jam jam-lightbulb"></i></span>
+                        </div>
+                        <div>
+                           <h5>¿Deseas alcanzar la independencia financiera?</h5>
+                           <p class="mb-0">El cielo es el límite cuando te propones aumentar tu salario y tu patrimonio neto</p>
+                        </div>
+                     </div>
+                     <div class="space30"></div>
+                     <div class="d-flex flex-row justify-content-center">
+                        <div>
+                           <span class="icon icon-blob icon-blob-blue color-blue mr-25"><i class="jam jam-battery-charging"></i></span>
+                        </div>
+                        <div>
+                           <h5>¿Estás cansado de no tener el equilibrio deseado entre trabajo y vida personal?</h5>
+                           <p class="mb-0">Alcanzar tus metas profesionales te permitirá tener más tiempo para las relaciones e intereses que más valoras y mejorar tu salud física</p>
+                        </div>
+                     </div>
+                     <div class="space30"></div>
+                     <div class="d-flex flex-row justify-content-center">
+                        <div>
+                           <span class="icon icon-blob icon-blob-yellow color-yellow mr-25"><i class="jam jam-heart"></i></span>
+                        </div>
+                        <div>
+                           <h5>¿Quieres sentirte motivado?</h5>
+                           <p class="mb-0">Siéntete inspirado y valorado por tus compañeros y tu gerente en tu rol actual</p>
+                        </div>
+                     </div>
+                     <div class="space30"></div>
+                     <div class="d-flex flex-row justify-content-center">
+                        <div>
+                           <span class="icon icon-blob icon-blob-blue color-red mr-25"><i class="jam jam-alarm-clock"></i></span>
+                        </div>
+                        <div>
+                           <h5>¿Estás cansado de pasar tiempo valioso en largos desplazamientos al trabajo?</h5>
+                           <p class="mb-0">Mejora tu estilo de vida trabajando en tu gestión del tiempo o buscando una posición laboral remota</p>
+                        </div>
+                     </div>
+                     <div class="space30"></div>
+                  </div>
+                  <!--/column -->
+               </div>
+               <div class="space40"></div>
+               <div class="text-center">
+                  <!--                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required> -->
+                  <div class="space40"></div>
+                  <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" class="btn btn-rounded btn-default mr-0 mb-0">Agenda tu sesión estratégica gratuita</a>
+                  <div class="space140"></div>
+               </div>
+            </div>
+         </div>
+         <div class="wrapper white-wrapper">
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="space20 d-md-none"></div>
+                  <div class="space50 d-none d-md-block d-lg-none"></div>
+                  <div class="col-lg-12 pr-60 pr-md-15">
+                     <!--             <h2 class="title-color color-gray text-center">Curriculum of the Program</h2> -->
+                     <h3 class="display-3 text-center">Desbloquea el propósito de tu carrera: una guía para alinear tu trabajo con tus metas de vida</h3>
+                     <div class="space50"></div>
+                     <div class="row">
+                        <div class="col-lg-6">
+                           <figure><img src="#" srcset="/style/images/concept/concept3.png 1x, /style/images/concept/concept3@2x.png 2x" alt="" /></figure>
+                        </div>
+                        <div class="col-lg-6">
+                           <!--               <div>
+                              <span class="icon icon-blob icon-blob-blue color-blue mr-25"><i class="jam jam-lightbulb"></i><span class="step bg-blue">1</span></span>
+                              </div> -->
+                           <div>
+                              <h5>Mejora tu tasa de éxito en las solicitudes de trabajo con soporte personalizado</h5>
+                              <p class="mb-0">¿Estás cansado de enviar solicitudes de trabajo sin respuesta? Déjame ayudarte a mejorar tu currículum vitae y aumentar tus posibilidades de ser contratado.</p>
+                           </div>
+                           <div class="space30"></div>
+                           <div>
+                              <!-- 		      <div>
+                                 <span class="icon icon-blob icon-blob-teal color-teal mr-25"><i class="jam jam-search-folder"></i><span class="step bg-teal">2</span></span>
+                                      </div> -->
+                              <div>
+                                 <h5>Encuentra la empresa de tus sueños y ten éxito en el proceso de contratación</h5>
+                                 <p class="mb-0">Puedo ayudarte a investigar y seleccionar las empresas que mejor se ajusten a tus aspiraciones profesionales y brindar apoyo durante todo el proceso de contratación.</p>
+                              </div>
+                           </div>
+                           <div class="space30"></div>
+                           <div>
+                              <!-- 		      <div>
+                                 <span class="icon icon-blob icon-blob-yellow color-yellow mr-25"><i class="jam jam-heart"></i><span class="step bg-yellow">3</span></span>
+                                      </div> -->
+                              <div>
+                                 <h5>Maximiza tus ofertas de trabajo con negociación estratégica</h5>
+                                 <p class="mb-0">¿Sabías que puedes aumentar tu oferta de trabajo hasta un 30-35% con negociación estratégica? Puedo guiarte en el proceso de negociación y ayudarte a asegurar la mejor oferta posible.</p>
+                              </div>
+                           </div>
+                           <div class="space30"></div>
+                           <div>
+                              <!-- 		      <div>
+                                 <span class="icon icon-blob icon-blob-red color-red mr-25"><i class="jam jam-crown"></i><span class="step bg-red">4</span></span>
+                                      </div> -->
+                              <div>
+                                 <h5>Destaca en tus entrevistas de habilidades técnicas y blandas</h5>
+                                 <p class="mb-0">Ofrezco una preparación integral en estructuras de datos y algoritmos, diseño de sistemas y sistemas operativos, nube y redes. Además, brindo apoyo para ayudarte a desarrollar tus habilidades blandas y convertirte en un ingeniero de software completo.</p>
+                              </div>
+                           </div>
+                           <div class="space30"></div>
+                           <div>
+                              <div>
+                                 <h5>Alcanza el desarrollo personal y una mentalidad positiva</h5>
+                                 <p class="mb-0">Entiendo que buscas un trabajo que te permita enfocarte en tu salud, relaciones, riqueza y carrera. Déjame ayudarte a alcanzar el desarrollo personal y cultivar una mentalidad positiva para tener éxito tanto profesional como personalmente.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="space40"></div>
+                     <div class="text-center">
+                        <!--                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required> -->
+                        <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" class="btn btn-rounded btn-default mr-0 mb-0">Agenda tu sesión estratégica gratuita</a>
+                     </div>
+                     <div class="space40"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="wrapper white-wrapper">
+            <div class="container">
+               <div class="space70"></div>
+                <div class="row text-center gutter-60">
+                  <h3 class="display-3 text-center">Engineer Game es un método personalizado diseñado para alcanzar tus metas de vida encontrando un trabajo que se alinee con tus valores y aspiraciones.</h3>               <!--
+                  <div class="space70"></div>
+                     <div class="col-md-6 col-lg-3">
+                        <div class="icon icon-blob icon-blob-green color-green mb-20"> <i class="jam jam-share-alt"></i> </div>
+                        <h5>Technical Interviewing</h5>
+                        <p>I teach you the technical hard and soft skills needed to have a successful job interview</p>
+                     </div>
+                     <div class="col-md-6 col-lg-3">
+                        <div class="icon icon-blob icon-blob-blue color-blue mb-20"> <i class="jam jam-layout"></i> </div>
+                        <h5>Job Hunting</h5>
+                        <p>We work as a team to identify the startups and national or international companies that you always dreamed to work for</p>
+                     </div>
+                     <div class="space30 d-none d-md-block d-lg-none"></div>
+                     <div class="col-md-6 col-lg-3">
+                        <div class="icon icon-blob icon-blob-rose color-rose mb-20"> <i class="jam jam-search"></i> </div>
+                        <h5>Improve your Resume</h5>
+                        <p>We work together to create a resume that will be impossible to reject</p>
+                     </div>
+                     <div class="col-md-6 col-lg-3">
+                        <div class="icon icon-blob icon-blob-purple color-purple mb-20"> <i class="jam jam-task-list"></i> </div>
+                        <h5>Job Offer Negotiation</h5>
+                        <p>I help you to negotiate the salary and benefits you deserve</p>
+                     </div>
+                  </div> 
+                  <div class="space90"></div>-->
+               </div>
+            </div>
+         </div>
+         <div class="wrapper white-wrapper">
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="space50 d-none d-md-block d-lg-none"></div>
+                  <div class="col-lg-12 pl-60 pl-md-15">
+                     <!-- <h2 class="title-color color-gray">Program Sessions</h2> -->
+                     <!-- <h3 class="display-3">The program helps you to become a better engineer, you should consider it as an accelerated Bootcamp to rock all the software engineer fundamentals</h3> -->
+                     <div class="space70"></div>
+                     <table class="table">
+                        <thead>
+                           <tr>
+                              <th scope="col">Sesión</th>
+                              <th scope="col">Contenido</th>
+                           </tr>
+                        </thead>
+                         <tbody>
+                           <tr>
+                              <th scope="row">Pre-trabajo</th>
+                              <td>
+                                <ul>
+                                  <li>Identificar tus objetivos de vida y cómo tu carrera encaja en ellos.</li>
+                                  <li>Definir tu camino profesional y planificar tus próximos pasos.</li>
+                                  <li>Aprender hábitos efectivos para mejorar tu productividad y rendimiento.</li>
+                                </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <th scope="row">Sesión 1</th>
+                              <td>
+                                <ul>
+                                  <li>Preparación y ajuste de currículum: te ayudaré a crear un currículum que se destaque entre la multitud. Te ayudaré a resaltar tus fortalezas, logros y experiencia relevante, y nos aseguraremos de que tu currículum sea fácil de leer y visualmente atractivo.</li>
+                                  <li>Ajuste de experiencia y habilidades: trabajaré contigo para asegurarme de que tu currículum refleje con precisión tu experiencia y habilidades. Te ayudaré a identificar las experiencias y habilidades más relevantes para incluir en tu currículum, y nos aseguraremos de que se presenten de una manera que resalte tus fortalezas.</li>
+                                  <li>Perfil de LinkedIn: tu perfil de LinkedIn es una herramienta importante para buscar trabajo. Te ayudaré a crear un perfil que muestre tus habilidades y experiencia, y que te haga destacar ante los reclutadores y gerentes de contratación.</li>
+                                  <li>Apoyo de visas: si necesitas ayuda con solicitudes de visa u otros problemas relacionados con la inmigración, estamos aquí para ayudarte. Te brindaré orientación y apoyo para ayudarte a navegar el proceso y asegurarme de que tengas toda la información que necesitas para tener éxito.</li>
+                                </ul>
+                              </td>
+                            </tr>
+                            <tr>
+                              <th scope="row">Sesión 2</th>
+                              <td>
+                                <ul class="unordered-list bullet-blue">
+                                  <li>Solicitud de empresas: te ayudaré a identificar las empresas para las que deseas trabajar y crear un plan para postularte a ellas. También brindaremos orientación sobre cómo investigar empresas y encontrar ofertas de trabajo que coincidan con tus habilidades y experiencia.</li>
+                                  <li>Priorizar entrevistas: una vez que comiences a recibir invitaciones para entrevistas, te ayudaré a priorizarlas y decidir cuáles aceptar. Te ayudaré a evaluar los pros y los contras de cada oportunidad y tomar decisiones informadas sobre tu búsqueda de trabajo.</li><li>Prioritize interviews: Once you start receiving interview invitations, I'll help you prioritize them and decide which ones to accept. I'll help you weigh the pros and cons of each opportunity and make informed decisions about your job search.</li>
+                                 <li>Preparar preguntas para entrevistadores: te ayudaré a prepararte para las entrevistas proporcionándote una lista de preguntas comunes de los reclutadores y estrategias para responderlas. También te ayudaremos a desarrollar tu propia lista de preguntas para hacer a los reclutadores durante las entrevistas, para que puedas obtener la información que necesitas para tomar decisiones informadas sobre las ofertas de trabajo.</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th scope="row">Sesión 3</th>
+                          <td>
+                            <ul class="unordered-list bullet-blue">
+                              <li>Preparar entrevistas técnicas: te ayudaré a prepararte para las entrevistas técnicas revisando estructuras de datos y algoritmos, y proporcionando consejos y estrategias para resolver problemas de codificación comunes. También proporcionaré entrevistas simuladas para ayudarte a sentirte cómodo con el proceso de entrevista y construir tu confianza.</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th scope="row">Sesión 4</th>
+                          <td>
+                            <ul>
+                              <li>Preparar preguntas sobre habilidades blandas: te ayudaré a prepararte para las entrevistas sobre habilidades blandas proporcionando una lista de preguntas comunes y estrategias para responderlas. También proporcionaremos consejos sobre cómo mostrar tus habilidades interpersonales y demostrar tu capacidad para trabajar bien con los demás.</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th scope="row">Sesión 5</th>
+                          <td>
+                            <ul class="unordered-list bullet-blue">
+                              <li>Entrevistas en el lugar: te ayudaré a investigar la empresa y los entrevistadores, desarrollar estrategias para manejar diferentes tipos de preguntas de entrevista y proporcionar consejos para mantener la calma y la confianza durante la entrevista.</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th scope="row">Sesión 6</th>
+                          <td>
+                            <ul class="unordered-list bullet-blue">
+                              <li>Negociación y evaluación: te ayudaremos a negociar y evaluar las ofertas de trabajo para asegurarte de obtener el mejor paquete de compensación posible. Discutiremos estrategias para manejar múltiples ofertas y prepararemos una contraoferta si es necesario.</li>
+                              <li>Beneficios y opciones de equidad: es importante evaluar los beneficios y opciones de equidad al considerar una oferta de trabajo. Discutiremos qué buscar y cómo evaluar estas opciones para tomar la mejor decisión.</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <th scope="row">Sesión 7</th>
+                          <td>
+                            <ul class="unordered-list bullet-blue">
+                                  <li>Preparación para el trabajo: trabajaremos juntos para asegurarnos de que estés listo para tu nuevo trabajo, ya sea en persona o de forma remota. Te ayudaremos a manejar tus expectativas y prepararte para la transición.</li>
+                                  <li>Configuración de su oficina: si trabaja desde casa, lo ayudaremos a configurar un espacio de trabajo productivo que satisfaga sus necesidades. Discutiremos las mejores prácticas para trabajar desde casa y mantener un equilibrio entre el trabajo y la vida personal.</li>
+                           </ul>
+                         </td>
+                       </tr>
+                       <tr>
+                          <th scope="row">Sesión 8</th>
+                              <td>
+                                 <ul class="unordered-list bullet-blue">
+                                    <li>Liderazgo y mentalidad: lo ayudaré a desarrollar las habilidades de liderazgo y mentalidad necesarias para tener éxito en su nuevo rol. Discutiremos estrategias para una comunicación efectiva, la gestión del tiempo y la priorización.</li>
+                                    <li>Trabajo en equipo y reuniones: trabajar eficazmente con otros es clave para el éxito en cualquier trabajo. Discutiremos las mejores prácticas para el trabajo en equipo y cómo aprovechar al máximo las reuniones.</li>
+                                    <li>Promociones y avance: discutiremos estrategias para avanzar en su carrera, incluido cómo pedir una promoción, construir su red y desarrollar nuevas habilidades.</li>
+                                 </ul>
+                              </td>
+                            </tr>
+                        </tbody>
+                     </table>
+                     <div class="space40"></div>
+                     <div class="text-center">
+                        <!--                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required> -->
+                        <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" class="btn btn-rounded btn-default mr-0 mb-0">Agenda tu sesión estratégica gratuita</a>
+                     </div>
+                     <div class="space80"></div>
+                    <p>Las sesiones de Engineer Game están organizadas para ayudarte a obtener el máximo provecho del programa:</p>
+                     <ul class="icon-list bullet-default">
+                        <li><i class="icofont-verification-check"></i>Disfruta de pequeñas clases en línea donde puedes construir relaciones con tus compañeros</li>
+                        <li><i class="icofont-verification-check"></i>Participa en un foro de discusión privado para ingenieros de software</li>
+                        <li><i class="icofont-verification-check"></i>Obtén acceso de por vida a los materiales del curso</li>
+                        <li><i class="icofont-verification-check"></i>Accede a tableros de trabajo y empresas tecnológicas para encontrar el ajuste perfecto para ti</li>
+                        <li><i class="icofont-verification-check"></i>Prepárate para entrevistas de trabajo con entrevistas simuladas</li>
+                        <li><i class="icofont-verification-check"></i>Obtén soporte de VISA de trabajo para hacer tu transición lo más fácil posible</li>
+                        <li><i class="icofont-verification-check"></i>Recibe sesiones de mentoría personalizadas con profesionales experimentados</li>
+                     </ul>
+                     <div class="space40"></div>
+                     <table class="table">
+                        <thead>
+                           <tr>
+                              <th scope="col">Fechas</th>
+                              <th scope="col">Horas</th>
+                              <th scope="col">Plazas</th>
+                           </tr>
+                        </thead>
+                        <tbody>
+                           <tr>
+                              <th scope="row">1 de mayo - 25 de junio<br>Parcial, En línea, Viernes</th>
+                              <td>5:00 PM - 7:00 PM <br>Zona horaria: Europa/Madrid</td>
+                              <td><br><a onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" style="text-decoration: underline" class="">INSCRÍBETE AHORA</a></td>
+                           </tr>
+                           <tr>
+                              <th scope="row">1 de agosto - 25 de septiembre<br>Parcial, En línea, Viernes</th>
+                              <td>5:00 PM - 7:00 PM <br>Zona horaria: Europa/Madrid</td>
+                              <td><br><a onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" style="text-decoration: underline"  class="">INSCRÍBETE AHORA</a></td>
+                           </tr>
+                           <tr>
+                              <th scope="row">5 de noviembre - 24 de diciembre<br>Parcial, En línea, Viernes</th>
+                              <td>5:00 PM - 7:00 PM <br>Zona horaria: Europa/Madrid</td>
+                              <td><br><a onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" style="text-decoration: underline" class="">INSCRÍBETE AHORA</a></td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <div class="space20 d-md-none"></div>
+<p>¿Tienes preguntas? <a style="text-decoration: underline" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;">Agenda una sesión de consultoría gratuita de 30 minutos.</a></p>
+                  </div>
+                  <div class="space60"></div>
+                  <!-- 	  <div class="col-lg-6">
+                     <figure><img src="#" srcset="/style/images/concept/concept9.png 1x, /style/images/concept/concept9@2x.png 2x" alt="" /></figure>
+                     </div> -->
+               </div>
+            </div>
+         </div>
+         <!-- /.wrapper -->
+         <div class="wrapper light-wrapper">
+            <div class="container inner">
+               <!--         <h2 class="title-color color-gray text-center">Testimonials</h2> -->
+               <h3 class="display-3 text-center">Más de 100 ingenieros de tecnología comparten su experiencia con Engineer Game</h3>
+<div class="space20"></div>
+<div class="grid-view">
+  <div class="carousel owl-carousel gap-small" data-margin="0" data-dots="true" data-autoplay="false" data-autoplay-timeout="5000" data-responsive='{"0":{"items": "1"}, "768":{"items": "2"}, "992":{"items": "2"}, "1140":{"items": "3"}}'>
+    <div class="item">
+      <div class="item-inner">
+        <div class="box bg-white shadow">
+          <blockquote>
+            <p>"Era ingeniero de software en México y quería trabajar en Silicon Valley. Alejandro me guió y apoyó en mi búsqueda de trabajo, haciendo que el proceso complejo fuera más fácil. Con su ayuda, aseguré mi primer trabajo en Uber con un paquete de compensación superior a $200k."</p>
+            <div class="blockquote-details">
+              <div class="info">
+                <h6 class="mb-0">Arturo</h6>
+                <span class="meta mb-0">Ingeniero de software en Uber</span>
+              </div>
+            </div>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <div class="item-inner">
+        <div class="box bg-white shadow">
+          <blockquote>
+            <p>"Soy ingeniero de preventa en Oracle, y cuando decidí dejar mi trabajo, me puse en contacto con Alejandro para obtener orientación. Con su ayuda, pude asegurar un puesto remoto que me permitió trabajar desde mi casa en Málaga, España, mientras ganaba una compensación total de más de $300 mil."</p>
+            <div class="blockquote-details">
+              <div class="info">
+                <h6 class="mb-0">Antonio</h6>
+                <span class="meta mb-0">Ingeniero de preventa en Oracle</span>
+              </div>
+            </div>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <div class="item-inner">
+        <div class="box bg-white shadow">
+          <blockquote>
+            <p>"Con la ayuda de Alejandro, obtuve un trabajo como ingeniero de software en Google y mejoré significativamente mis habilidades de entrevista, así como mis habilidades técnicas y blandas."</p>
+            <div class="blockquote-details">
+              <div class="info">
+                <h6 class="mb-0">Ana</h6>
+                <span class="meta mb-0">Ingeniero de software en Google</span>
+              </div>
+            </div>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+     <div class="item">
+  <div class="item-inner">
+    <div class="box bg-white shadow">
+      <blockquote>
+        <p>"Antes de conocer a Alejandro, estaba luchando para encontrar trabajo en San Francisco. A pesar de asistir a numerosas entrevistas de trabajo, enfrenté el rechazo una y otra vez. Sin embargo, con la ayuda de Alejandro, pude perfeccionar mis habilidades de entrevista y asegurar con éxito un puesto como Gerente de Programa en Amazon."</p>
+        <div class="blockquote-details">
+          <!-- <div class="img-blob blob1"><img src="style/images/art/t2.jpg" alt="" /></div> -->
+          <div class="info">
+            <h6 class="mb-0">Maria</h6>
+            <span class="meta mb-0">Gerente de Programa Tecnológico en Amazon</span>
+          </div>
+        </div>
+      </blockquote>
+    </div>
+    <!-- /.box -->
+  </div>
+  <!-- /.item-inner -->
+</div>
+<!-- /.item -->
+<div class="item">
+  <div class="item-inner">
+    <div class="box bg-white shadow">
+      <blockquote>
+        <p>"Como Gerente de Producto en Panamá, tuve el privilegio de duplicar mi salario en un corto período de 3 meses, gracias a la guía y experiencia de Alejandro. Con su ayuda, pude asegurar un puesto que me ofreció un paquete de compensación superior a $20,000 al mes, una mejora significativa en comparación con mis ingresos anteriores."</p>
+        <div class="blockquote-details">
+          <!-- <div class="img-blob blob1"><img src="style/images/art/t2.jpg" alt="" /></div> -->
+          <div class="info">
+            <h6 class="mb-0">Kiko</h6>
+            <span class="meta mb-0">Gerente de Producto en Apptio</span>
+          </div>
+        </div>
+      </blockquote>
+    </div>
+    <!-- /.box -->
+  </div>
+  <!-- /.item-inner -->
+</div>
+<!-- /.item -->
+<div class="item">
+  <div class="item-inner">
+    <div class="box bg-white shadow">
+      <blockquote>
+        <p>"Este programa transformó la forma en que abordé la búsqueda de trabajo y el rendimiento diario en el trabajo, proporcionando una estrategia a largo plazo y un método probado que me permitió destacar y tener ventaja sobre otros candidatos, con el beneficio adicional de tener un mentor que brinda perspectivas invaluables."</p>
+        <div class="blockquote-details">
+          <!-- <div class="img-blob blob1"><img src="style/images/art/t2.jpg" alt="" /></div> -->
+          <div class="info">
+            <h6 class="mb-0">Antonio</h6>
+            <span class="meta mb-0">DevSecOps en Workshop</span>
+          </div>
+        </div>
+      </blockquote>
+    </div>
+    <!-- /.box -->
+  </div>
+  <!-- /.item-inner -->
+</div>
+<!-- /.item -->
+              <div class="item">
+                  <div class="item-inner">
+                     <div class="box bg-white shadow">
+                        <blockquote>
+                           <p>"Me ayudó a descubrir el panorama actual para los ingenieros de software / datos, negociar oportunidades y alcanzar mis objetivos. La experiencia, energía y positividad del programa han sido invaluables para duplicar mi salario y sentirme seguro en la evolución de mi carrera profesional."</p>
+                           <div class="blockquote-details">
+                              <!--                       <div class="img-blob blob1"><img src="style/images/art/t2.jpg" alt="" /></div> -->
+                              <div class="info">
+                                 <h6 class="mb-0">Victor</h6>
+                                 <span class="meta mb-0">DataEngineer en BASF</span>
+                              </div>
+                           </div>
+                        </blockquote>
+                     </div>
+                     <!-- /.box -->
+                  </div>
+                  <!-- /.item-inner -->
+               </div>
+               <!-- /.item -->
+                  </div>
+                  <!-- /.owl-carousel -->
+               </div>
+               <div class="space40"></div>
+               <div class="text-center">
+                  <!--                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required> -->
+                  <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" class="btn btn-rounded btn-default mr-0 mb-0">Agenda tu sesión estratégica gratuita</a>
+              </div>
+               <!-- /.grid-view -->
+            </div>
+            <!-- /.container -->
+         </div>
+         <div class="wrapper light-wrapper">
+            <div class="container pb-0">
+               <h2 class="title-color color-gray text-center">Preguntas Frecuentes</h2>
+               <h3 class="display-3 text-center">Si no encuentras la respuesta a tu pregunta, <br class="d-none d-lg-block" />puedes contactarme y programar tu sesión estratégica gratuita.</h3>
+               <div class="space20"></div>
+               <h3 class="display-3 text-center"></h3>
+               <div class="space60"></div>
+               <div class="row">
+                     <div class="col-lg-6 mb-0">
+                        <div id="accordion-1" class="accordion-wrapper">
+                           <div class="card shadow">
+                              <div class="card-header" id="accordion-heading-1-1">
+                                 <h5>
+                                    <button class="collapsed" data-toggle="collapse" data-target="#accordion-collapse-1-1" aria-expanded="false" aria-controls="accordion-collapse-1-1">¿Qué es Engineer Game?</button>
+                                 </h5>
+                              </div>
+                              <!-- /.card-header -->
+                              <div id="accordion-collapse-1-1" class="collapse show" aria-labelledby="accordion-heading-1-1" data-target="#accordion-1">
+                                 <div class="card-body">
+                                    <p>Engineer Game es un método personalizado para ayudarte a alcanzar tus metas de vida a través de tu carrera, prepararte mejor para tus entrevistas y convertirte en líder de tu vida.</p>
+                                 </div>
+                                 <!-- /.card-body -->
+                              </div>
+                              <!-- /.collapse -->
+                           </div>
+                           <!-- /.card -->
+                           <div class="card shadow">
+                              <div class="card-header" id="accordion-heading-1-2">
+                                 <h5>
+                                    <button class="collapsed" data-toggle="collapse" data-target="#accordion-collapse-1-2" aria-expanded="false" aria-controls="accordion-collapse-1-2">¿Cuál es la duración?</button>
+                                 </h5>
+                              </div>
+                              <!-- /.card-header -->
+                              <div id="accordion-collapse-1-2" class="collapse show" aria-labelledby="accordion-heading-1-2" data-target="#accordion-1">
+                                 <div class="card-body">
+                                    <p>La duración del programa es de 8 semanas, ya que se personaliza según tus necesidades para prepararte para las entrevistas y empezar a entrevistarte en empresas de tecnología.</p>
+                                 </div>
+                                 <!-- /.card-body -->
+                              </div>
+                              <!-- /.collapse -->
+                           </div>
+                           <!-- /.card -->
+                           <div class="card shadow">
+                              <div class="card-header" id="accordion-heading-1-3">
+                                 <h5>
+                                    <button class="collapsed" data-toggle="collapse" data-target="#accordion-collapse-1-3" aria-expanded="false" aria-controls="accordion-collapse-1-3">¿Ofrecen garantía?</button>
+                                 </h5>
+                              </div>
+                              <!-- /.card-header -->
+                              <div id="accordion-collapse-1-3" class="collapse show" aria-labelledby="accordion-heading-1-3" data-target="#accordion-1">
+                                 <div class="card-body">
+                                    <p>Si atiendes a las clases, realizas todos los laboratorios y no consigues mejorar de trabajo, te devolvemos el dinero completo del programa.</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="card shadow">
+                              <div class="card-header" id="accordion-heading-1-4">
+                                 <h5>
+                                    <button class="collapsed" data-toggle="collapse show" data-target="#accordion-collapse-1-4" aria-expanded="false" aria-controls="accordion-collapse-1-4">¿Ofrecen certificación?</button>
+                                 </h5>
+                              </div>
+                              <!-- /.card-header -->
+                              <div id="accordion-collapse-1-4" class="collapse show" aria-labelledby="accordion-heading-1-4" data-target="#accordion-1">
+                                 <div class="card-body">
+                                    <p>Aunque no se trata de un programa educativo universitario o de maestría, Engineer Game ofrece un certificado digital de finalización.</p>
+                                 </div>
+                                 <!-- /.card-body -->
+                              </div>
+                              <!-- /.collapse -->
+                           </div>
+                           <div class="card shadow">
+                              <div class="card-header" id="accordion-heading-2-4">
+                                 <h5>
+                                    <button class="collapsed" data-toggle="collapse" data-target="#accordion-collapse-2-4" aria-expanded="false" aria-controls="accordion-collapse-2-4">¿Quiénes pueden hacer el programa?</button>
+                                 </h5>
+                              </div>
+                              <!-- /.card-header -->
+                              <div id="accordion-collapse-2-4" class="collapse show" aria-labelledby="accordion-heading-2-4" data-target="#accordion-2">
+                                 <div class="card-body">
+                                    <p>El programa está dirigido principalmente a personas que trabajan en la industria tecnológica, específicamente a ingenieros de software, ingenieros de datos, ingenieros de la nube y científicos de datos. Si trabajas en un campo relacionado con la tecnología, entonces este programa es adecuado para ti.</p>
+                                 </div>
+                                 <!-- /.card-body -->
+                              </div>
+                              <!-- /.collapse -->
+                           </div>
+                           <!-- /.card -->
+                        </div>
+                        <!-- /.accordion-wrapper -->
+                  </div>
+                  <!--/column -->
+                 <div class="col-lg-6">
+                     <div id="accordion-2" class="accordion-wrapper">
+                        <div class="card shadow">
+                           <div class="card-header" id="accordion-heading-2-1">
+                              <h5>
+                                 <button class="collapsed" data-toggle="collapse" data-target="#accordion-collapse-2-1" aria-expanded="false" aria-controls="accordion-collapse-2-1">¿Necesito ser un experto en programación?</button>
+                              </h5>
+                           </div>
+                           <!-- /.card-header -->
+                           <div id="accordion-collapse-2-1" class="collapse show" aria-labelledby="accordion-heading-2-1" data-target="#accordion-2">
+                              <div class="card-body">
+                                 <p>Aunque se recomienda tener experiencia en programación de 3 a 4 años, te ayudaré a practicar ejercicios de entrevistas de programación y patrones de programación.</p>
+                              </div>
+                              <!-- /.card-body -->
+                           </div>
+                           <!-- /.collapse -->
+                        </div>
+                        <!-- /.card -->
+                        <div class="card shadow">
+                           <div class="card-header" id="accordion-heading-2-2">
+                              <h5>
+                                 <button class="collapsed" data-toggle="collapse" data-target="#accordion-collapse-2-2" aria-expanded="false" aria-controls="accordion-collapse-2-2">¿Cómo me será útil este programa?</button>
+                              </h5>
+                           </div>
+                           <!-- /.card-header -->
+                           <div id="accordion-collapse-2-2" class="collapse show" aria-labelledby="accordion-heading-2-2" data-target="#accordion-2">
+                              <div class="card-body">
+                                 <p>Alejandro ha ayudado consistentemente a muchos ingenieros a encontrar su trabajo soñado y los ha preparado para lograr sus metas con éxito. Tu compromiso con el programa es la clave para alcanzar tu futuro deseado.</p>
+                              </div>
+                              <!-- /.card-body -->
+                           </div>
+                           <!-- /.collapse -->
+                        </div>
+                        <!-- /.card -->
+                        <div class="card shadow">
+                           <div class="card-header" id="accordion-heading-2-3">
+                              <h5>
+                                 <button class="collapsed" data-toggle="collapse" data-target="#accordion-collapse-2-3" aria-expanded="false" aria-controls="accordion-collapse-2-3">¿Qué habilidades necesito para participar en el programa?</button>
+                              </h5>
+                           </div>
+                           <!-- /.card-header -->
+                           <div id="accordion-collapse-2-3" class="collapse show" aria-labelledby="accordion-heading-2-3" data-target="#accordion-2">
+                              <div class="card-body">
+                                 <p>No hay un requisito de experiencia profesional, ya que el programa se adapta a tu nivel profesional actual y proporciona habilidades para prepararte para tu próxima aventura laboral.</p>
+                              </div>
+                              <!-- /.card-body -->
+                           </div>
+                           <!-- /.collapse -->
+                        </div>
+                        <!-- /.card -->
+                        <div class="card shadow">
+                           <div class="card-header" id="accordion-heading-2-4">
+                              <h5>
+                                 <button class="collapsed" data-toggle="collapse" data-target="#accordion-collapse-2-4" aria-expanded="false" aria-controls="accordion-collapse-2-4">¿Qué opciones de pago ofrecen?</button>
+                              </h5>
+                           </div>
+                           <!-- /.card-header -->
+                           <div id="accordion-collapse-2-4" class="collapse show" aria-labelledby="accordion-heading-2-4" data-target="#accordion-2">
+                                                        <div id="accordion-collapse-2-3" class="collapse show" aria-labelledby="accordion-heading-2-3" data-target="#accordion-2">
+                              <div class="card-body">
+                                 <p>Engineer Game ofrece la opción de pagar en varias cuotas mensuales o en un pago único con una tarifa adicional de comisión. Nuestro enfoque está en trabajar con personas comprometidas en alcanzar sus metas y ayudarles a asegurar su trabajo soñado.</p> 
+                              </div>
+                                 <!-- /.card-body -->
+                           </div>
+                           <!-- /.collapse -->
+                        </div>
+                        <!-- /.card -->
+                     </div>
+                     <!-- /.accordion-wrapper -->
+                  </div>
+                  <!--/column -->
+               </div>
+               <!--/.row -->
+               <!-- <div class="space120"></div> -->
+            </div>
+         </div>
+         <div class="wrapper white-wrapper">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-10 offset-md-1">
+                  </div>
+                  <!-- /column -->
+               </div>
+               <!-- /.row -->
+            </div>
+            <!-- /.container -->
+            <!-- /.wrapper -->
+         </div>
+         <div class="wrapper">
+            <div class="container inner">
+               <div class="row text-center">
+                  <div class="col-lg-8 offset-lg-2">
+                    <!-- <h2 class="title-color color-gray">Únete a la próxima cohorte y comienza a lograr el ingreso y el estilo de vida con el que siempre has soñado</h2> -->
+                    <h3 class="display-3">Garantía de éxito</h3>
+                    <p>Para ser elegible para un reembolso de su tarifa del programa, debes seguir estas instrucciones:</p>
+                    <p><i class="icofont-verification-check"></i> Asiste a una clase semanal (ya sea en persona o a través de una sesión grabada)</p>
+                    <p><i class="icofont-verification-check"></i> Completa las tareas para cada sesión</p>
+                    <p><i class="icofont-verification-check"></i> Agenda al menos 20 entrevistas por semana</p>
+                    <p>Si después de completar el programa de 2 meses no incrementas un 40% tu salario dentro de los 6 meses, se te reembolsará la tarifa del programa. <span style="text-decoration: underline;"><a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;">Inscríbase ahora</a></span> para aprovechar esta garantía y lograr sus objetivos profesionales.</p>
+                  </div>
+                  <!-- /column -->
+               </div>
+               <!-- /.row -->
+               <!-- <div class="space30"></div> -->
+               <div class="text-center">
+                  <!--                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required> -->
+                  <!-- <a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" class="btn btn-rounded btn-default mr-0 mb-0">Schedule Your Free Strategy Session</a> -->
+               </div>
+               <!--/column -->
+               <!--/.row -->
+            </div>
+            <!-- /.container -->
+            <!-- <figure style="margin-bottom:-3px;"><img src="style/images/art/rocket1.png" alt="" /></figure> -->
+         </div>
+         <div class="wrapper bg-opacity-default">
+            <div class="container inner">
+               <div class="row text-center">
+                  <div class="col-lg-8 offset-lg-2">
+                     <!-- <h2 class="title-color color-gray">Join the next cohort and start achieving the income and lifestyle you've always dreamed of</h2> -->
+                     <h3 class="display-3">¿Qué te detiene? Los EngineerGamers ya han superado la marca de $200k</h3>
+                  </div>
+                  <!-- /column -->
+               </div>
+               <!-- /.row -->
+               <div class="space30"></div>
+               <div class="text-center">
+                  <!--                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required> -->
+                  <a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alejandrosanchezacosta/30min'});return false;" class="btn btn-rounded btn-default mr-0 mb-0">Agenda tu sesión de estrategia gratuita</a>
+               </div>
+               <!--/column -->
+               <!--/.row -->
+            </div>
+            <!-- /.container -->
+            <figure style="margin-bottom:-3px;"><img src="/style/images/art/rocket1.png" alt="" /></figure>
+         </div>
+         <!-- /.wrapper -->
+      </div>
+      <!-- /.content-wrapper -->
+      <script src="/style/js/jquery.min.js"></script>
+      <script src="/style/js/popper.min.js"></script>
+      <script src="/style/js/bootstrap.min.js"></script>
+      <script src="/style/revolution/js/jquery.themepunch.tools.min.js"></script>
+      <script src="/style/revolution/js/jquery.themepunch.revolution.min.js"></script>
+      <script src="/style/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+      <script src="/style/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+      <script src="/style/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+      <script src="/style/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+      <script src="/style/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+      <script src="/style/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+      <script src="/style/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+      <script src="/style/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+      <script src="/style/revolution/js/extensions/revolution.extension.video.min.js"></script>
+      <script src="/style/js/plugins.js"></script>
+      <script src="/style/js/scripts.js?v=1.0"></script>
+   </body>
+</html>

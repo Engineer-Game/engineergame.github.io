@@ -92,10 +92,10 @@
                   <!-- /.navbar-nav -->
                 </div>
                <div class="navbar-collapse offcanvas-nav">
-                  <div class="offcanvas-header d-lg-none d-xl-none">
-                     <!-- <a href="index.html"><img src="#" srcset="/style/images/logo.png 1x, /style/images/logo@2x.png 2x" alt="" /></a> -->
-                     <button class="plain offcanvas-close offcanvas-nav-close"><i class="jam jam-close"></i></button>
-                  </div>
+                  <!-- <div class="offcanvas-header d-lg-none d-xl-none">
+                     <a href="index.html"><img src="#" srcset="/style/images/logo.png 1x, /style/images/logo@2x.png 2x" alt="" /></a> -->
+                     <!-- <button class="plain offcanvas-close offcanvas-nav-close"><i class="jam jam-close"></i></button> 
+                  </div>-->
                   <ul class="navbar-nav ml-auto">
                      <li class="nav-item">
                         <div class="navbar-hamburger d-lg-none d-xl-none ml-auto"><button class="hamburger animate plain" data-toggle="offcanvas-nav"><span></span></button></div>
@@ -103,7 +103,8 @@
                      <li class="nav-item">
                         <a class="nav-link" href="/"></a>
                      </li>
-                     <li class="nav-item"><a class="nav-link dropdown-toggle" href="/blog">Blog</a></li>
+                     <li class="nav-item"><a class="nav-link dropdown-toggle" href="/blog">Blog</a>
+                     </li>
                      <li class="nav-item"><a class="nav-link dropdown-toggle" href="/es/blog">ES</a>
                      </li>
                   </ul>
@@ -170,230 +171,187 @@
                   </figure> -->
                   <div class="space40"></div>
                   <div class="post-content">
-                    <h2 class="post-title text-center">The Perfect Moment is Overrated</h2>
-                    <div class="meta text-center"><span class="date"><i class="jam jam-clock"></i>27 Mar 2023</span><span class="author"><i class="jam jam-user"></i><a href="#">By Alejandro</a></span></div>
+                    <h2 class="post-title text-center">The Million Dollars of Your Dreams</h2>
+                    <div class="meta text-center"><span class="date"><i class="jam jam-clock"></i>22 Mar 2023</span><span class="author"><i class="jam jam-user"></i><a href="#">By Alejandro</a></span></div>
                     <p class="reader-text-block__paragraph">
-                        <p class="reader-text-block__paragraph">
-                How many times have you waited for that perfect moment to do something specific?
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Not now, it's not the right time...
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Tomorrow, I'll surely be in a better mood to start...
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Oh, no, I can't handle that right now, maybe in a couple of months...
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                I don't know about you, but it used to happen to me often.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Don't worry, it's completely normal.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Our brain is designed to avoid making great efforts and to stay still in the zone it knows.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                I'm not talking about stepping out of your "comfort zone."
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                There are beautiful and pleasant comfort zones, both personally and professionally...
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                The important thing is to recognize whether that moment we find ourselves in (call it comfort zone or whatever you like) helps us grow.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Because the issue is that one day you may feel great, but the next day you may be completely down.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Devastated.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Lacking the motivation to think about "that perfect moment."
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                It happened to me when I found myself with a technology company that wasn't working and decided to take the risk of moving to San Francisco.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                My mind clicked, and since then, I don't leave any more moments for another "perfect moment."
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                That's why I decided to start a new chapter in my life.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Because every day, every moment, can be a new story in your life.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Like the moment you have right now to schedule <a href="https://www.engineergame.com">30 minutes to help you with your professional career</a> and reach 7 digits.
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Stay strong,
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->      <p class="reader-text-block__paragraph">
-                Alejandro
-            <!---->  </p>
-            
-            <!---->
-            <!---->
-            <!---->
-            <!---->
-            
-            <!---->
-            <!---->
-            <!---->
+                      Today, I propose that we use our imagination.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      If you're here, you probably have a job.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      Let's imagine that you're not earning as much as you would like.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      And surely, on some occasion, you've fantasized about earning a salary of a million dollars (or euros).
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      But then you immediately dismiss the idea, saying, "That's impossible!"
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      Well, let me tell you that IT'S NOT IMPOSSIBLE.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      It's good to visualize, to dream, and to project... but we can't just stop there.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      Because it won't be of much use in achieving our goals.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      Imagining yourself on a beach with a coconut drink, traveling every month without having to answer to anyone, or even working just 4 hours a week, it's fun to imagine, right?
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      But to achieve all of that, we need to take action.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      (Yes, I know, I've told you this in many emails already)
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      And that's why you can start taking action right now by <a href="https://www.engineergame.com">scheduling a call with me</a> to see if I can help you.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      This could be the fastest, most efficient, and most supported way to go from your current situation to what you desire - that million.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      You can keep visualizing, which is important, but taking action is even more important.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      Best regards,
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      Alejandro.
+                  <!---->  </p>
+                  
+                  <!---->
+                  <!---->
+                  <!---->
+                  <!---->
+                  
+                  <!---->
+                  <!---->
+                  <!---->      <p class="reader-text-block__paragraph">
+                      P.S. Remember that if you want different results, you have to do things differently. To improve your life with your job, you have to take action. <a href="https://www.engineergame.com">Here</a>.
+                  <!---->  </p>
                     </div>
                   <!-- /.post-content -->
                 </div>
@@ -402,7 +360,7 @@
                           <!-- /.pagination -->
           </div>
           <div class="space20"></div>
-          <h2 class="display-4 text-center">I help <span class="engineer">Tech</span> Engineers increase 40% their salaries in less than 6 months without working more hours with the method Engineer Game</h2> 
+          <h2 class="display-4 text-center">I help <span class="engineer">Tech</span> Engineers define their <span style="text-decoration:underline;">life goals through the career</span> and add between $100k to $1M per year of total compensation</h2> 
           <div class="space20"></div>
           <div class="text-center">
              <!--                 <input type="email" value="" name="EMAIL" class="email form-control mb-0 mr-2 mb-sm-0" placeholder="Email Address" required> -->
