@@ -82,19 +82,27 @@
       <div class="content-wrapper">
          <div class="wrapper white-wrapper">
             <div class="container">
-               <div class="space40"></div>
+               <div class="space20"></div>
                <h2 class="display-3 text-center" style="font-weight:700">Descubre el sistema de 2 pasos para aumentar tu salario +40% como desarrollador de software y sentirte más valorado profesionalmente </h2> 
                <div class="space10"></div>
                <h4 class="text-center">Caso practico de como aplicar estrategia. En 17 minutos.</h4>
-               <div style="padding:56.25% 0 0 0; position:relative; border: 4px solid #ff384f; max-width: 1200px;"><iframe src="https://player.vimeo.com/video/764190352?h=82467e4b5b&badge=false&autopause=false&transparent=true&pip=false&keyboard=false&player_id=0&app_id=58479&portrait=0&byline=0&controls=true&title=false" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Engineer Game.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-               </div> 
+               <div id="calendar" style="height:900px"></div>
                <div class="space40"></div>
-               <div class="text-center">
-                  <a href="reservar" class="btn btn-rounded btn-default mr-0 mb-0" style="width:63%"><i class="jam jam-arrow-right"></i> AGENDAR LLAMADA GRATIS</a>
-               </div>
             </div>
          </div>
       </div>
+
+      <script>
+      window.addEventListener("load", (event) => {
+         Calendly.initInlineWidget({
+         url: 'https://calendly.com/alejandrosanchezacosta/30min',
+         parentElement: document.getElementById('calendar'),
+         prefill: {},
+         utm: {}
+         });
+      });
+      </script>
+
       <!-- /.content-wrapper -->
       <script src="/style/js/jquery.min.js"></script>
       <script src="/style/js/popper.min.js"></script>
